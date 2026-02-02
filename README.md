@@ -148,9 +148,9 @@ Overall feedback noted that the project **meets and exceeds the requirements**, 
 
 ---
 
-### Requirements / How to Run
+### Requirements
 
-Install the required Python dependencies using `requirements.txt`.
+Install the required Python packages with: `pip install -r requirements.txt`
 
 ---
 
